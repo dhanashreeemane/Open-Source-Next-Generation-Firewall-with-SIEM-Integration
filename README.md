@@ -40,7 +40,7 @@ This SIEM stack follows a **multi-layered defense model**, incorporating:
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kc-codes/Next-Generation-SIEM-Stack.git
+   git clone https://github.com/dhanashreeemane/Open-Source-Next-Generation-Firewall-with-SIEM-Integration.git
    ```
 2. Follow the [Installation Guide](Installation.md) to set up the SIEM system.
 3. Explore different security monitoring use cases in the **[UseCases](UseCases/)** directory.
