@@ -1,4 +1,4 @@
-F# Open-Source-Next-Generation-Firewall-with-SIEM-Integration
+# Open-Source-Next-Generation-Firewall-with-SIEM-Integration
 
 ## Overview
 The **Open-Source-Next-Generation-Firewall-with-SIEM-Integration** is a robust security monitoring framework integrating **Intrusion Detection and Prevention Systems (IDS/IPS)** with advanced **log analysis, vulnerability assessment, and automated threat response** mechanisms. It combines **Wazuh, Suricata, OPNsense, and VirusTotal API** to provide comprehensive security monitoring across both network and endpoint layers.
